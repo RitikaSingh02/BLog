@@ -1,3 +1,7 @@
+---
+title: "KNOW ME!"
+date: 2020-12-27
+---
 ![Hi, I'm RITIKA 👋 I'm a 🚀 DJANGO developer 🚀 I ❤️ REST ❤️](https://github.com/RitikaSingh02/RitikaSingh02/raw/master/assets/RitikaSingh02.gif)
 
 ### TECH I HAVE WORKED/WORKING ON 
